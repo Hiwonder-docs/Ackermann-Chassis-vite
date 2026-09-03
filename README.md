@@ -1,6 +1,6 @@
-# 32-Channel-Servo-Controller Documentation
+# Ackermann-Chassis Documentation
 
-This repository contains the 32-Channel-Servo-Controller VitePress documentation site. The
+This repository contains the Ackermann-Chassis VitePress documentation site. The
 documentation source files are Markdown files under `docs/docs/`.
 
 ## Local development
@@ -19,7 +19,7 @@ npm run docs:build
 npm run docs:stage-main
 ```
 
-The staged production files are generated in `projects/32-Channel-Servo-Controller/en/latest/`.
+The staged production files are generated in `projects/Ackermann-Chassis/en/latest/`.
 
 ## GitHub Pages deployment
 
@@ -30,11 +30,11 @@ The build artifacts under `projects/` are committed to the repository. Open
 The GitHub Pages direct URL is:
 
 ```text
-https://GITHUB-USERNAME.github.io/32-Channel-Servo-Controller-vite/projects/32-Channel-Servo-Controller/en/latest/
+https://hiwonder-docs.github.io/Ackermann-Chassis-vite/projects/Ackermann-Chassis/en/latest/
 ```
 
 The public-facing URL (via the baota Nginx reverse proxy) is:
 
 ```text
-https://wiki-test.hiwonder.com/projects/32-Channel-Servo-Controller/en/latest/
+https://wiki-test.hiwonder.com/projects/Ackermann-Chassis/en/latest/
 ```

@@ -1,1 +1,1 @@
-const s="/projects/Ackermann-Chassis/en/latest/assets/image4.BtdxPZYS.png";export{s as _};
+const s="/projects/Ackermann-Chassis/en/latest/assets/image4.BtdxPZYS.webp";export{s as _};
